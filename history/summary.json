@@ -4,19 +4,19 @@
     "url": "https://asoundidea.co.za",
     "icon": "https://favicons.githubusercontent.com/asoundidea.co.za",
     "slug": "asi",
-    "status": "down",
-    "uptime": "16.27%",
-    "uptimeDay": "16.27%",
-    "uptimeWeek": "16.27%",
-    "uptimeMonth": "16.27%",
-    "uptimeYear": "16.27%",
-    "time": 1546,
-    "timeDay": 1546,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546,
+    "status": "up",
+    "uptime": "3.82%",
+    "uptimeDay": "3.82%",
+    "uptimeWeek": "3.82%",
+    "uptimeMonth": "3.82%",
+    "uptimeYear": "3.82%",
+    "time": 1281,
+    "timeDay": 1281,
+    "timeWeek": 1281,
+    "timeMonth": 1281,
+    "timeYear": 1281,
     "dailyMinutesDown": {
-      "2022-07-01": 106
+      "2022-07-01": 518
     }
   },
   {
