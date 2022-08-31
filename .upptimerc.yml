@@ -11,6 +11,8 @@ sites:
     check: "tcp-ping"
     url: $DEDICATED_URL
     port: 22
+  - name: Dedicated NodeJS - TG Mute Scheduler
+    url: $DEDICATED_TG_MUTE_SCHEDULER
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
