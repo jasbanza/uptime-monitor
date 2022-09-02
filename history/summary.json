@@ -6,8 +6,8 @@
     "slug": "shared-hosting-xneelo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
@@ -15,7 +15,9 @@
     "timeWeek": 729,
     "timeMonth": 816,
     "timeYear": 840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 1
+    }
   },
   {
     "name": "TG Notifications Bot XNEELO",
@@ -24,7 +26,7 @@
     "slug": "tg-notifications-bot-xneelo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 125,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   },
   {
     "name": "Dedicated Server AFRIHOST",
