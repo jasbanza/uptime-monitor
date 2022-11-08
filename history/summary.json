@@ -4,10 +4,10 @@
     "url": "$SHARED_HOSTING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shared-hosting-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
@@ -15,16 +15,18 @@
     "timeWeek": 774,
     "timeMonth": 777,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 1
+    }
   },
   {
     "name": "TG Notifications Bot XNEELO",
     "url": "$OSL_TG_NOTIFICATIONS_BOT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tg-notifications-bot-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 123,
     "timeMonth": 120,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   },
   {
     "name": "Dedicated Server AFRIHOST",
