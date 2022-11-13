@@ -44,10 +44,10 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-server-afrihost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 689,
@@ -55,16 +55,18 @@
     "timeWeek": 876,
     "timeMonth": 857,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-13": 1
+    }
   },
   {
     "name": "Dedicated NodeJS - TG Mute Scheduler",
     "url": "$DEDICATED_TG_MUTE_SCHEDULER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-node-js-tg-mute-scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +75,8 @@
     "timeWeek": 891,
     "timeMonth": 970,
     "timeYear": 985,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-13": 0
+    }
   }
 ]
