@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 825,
-    "timeDay": 769,
-    "timeWeek": 743,
-    "timeMonth": 838,
-    "timeYear": 825,
+    "time": 827,
+    "timeDay": 1154,
+    "timeWeek": 831,
+    "timeMonth": 858,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2022-11-08": 32
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 102,
-    "timeWeek": 124,
-    "timeMonth": 125,
+    "timeDay": 167,
+    "timeWeek": 133,
+    "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2022-11-08": 32
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 709,
-    "timeDay": 669,
-    "timeWeek": 740,
-    "timeMonth": 835,
+    "timeDay": 751,
+    "timeWeek": 752,
+    "timeMonth": 837,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2022-11-13": 60
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-node-js-tg-mute-scheduler",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.81%",
-    "time": 999,
-    "timeDay": 724,
-    "timeWeek": 1055,
-    "timeMonth": 1009,
-    "timeYear": 999,
+    "uptimeYear": "99.82%",
+    "time": 1009,
+    "timeDay": 2014,
+    "timeWeek": 1183,
+    "timeMonth": 1058,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2022-11-13": 258
     }
