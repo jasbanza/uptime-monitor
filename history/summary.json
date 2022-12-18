@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 824,
-    "timeDay": 592,
-    "timeWeek": 793,
-    "timeMonth": 853,
-    "timeYear": 824,
+    "time": 823,
+    "timeDay": 679,
+    "timeWeek": 791,
+    "timeMonth": 828,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2022-11-08": 32
     }
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 98,
+    "timeDay": 131,
     "timeWeek": 121,
     "timeMonth": 125,
     "timeYear": 126,
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-server-afrihost",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 715,
-    "timeDay": 809,
-    "timeWeek": 794,
-    "timeMonth": 803,
+    "timeDay": 714,
+    "timeWeek": 776,
+    "timeMonth": 798,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2022-11-13": 60
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1024,
-    "timeDay": 1048,
-    "timeWeek": 1127,
-    "timeMonth": 1085,
-    "timeYear": 1024,
+    "time": 1019,
+    "timeDay": 548,
+    "timeWeek": 972,
+    "timeMonth": 1065,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2022-11-13": 258
     }
