@@ -6,7 +6,9 @@ sites:
   - name: Shared Hosting XNEELO
     url: $SHARED_HOSTING_URL
   - name: TG Notifications Bot XNEELO
-    url: $OSL_TG_NOTIFICATIONS_BOT_URL
+    check: "tcp-ping"
+    url: $DEDICATED_URL
+    port: 9000
   - name: Dedicated Server AFRIHOST
     check: "tcp-ping"
     url: $DEDICATED_URL
