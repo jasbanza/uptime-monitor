@@ -4,11 +4,11 @@
     "url": "$SHARED_HOSTING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shared-hosting-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 863,
     "timeDay": 533,
@@ -16,6 +16,7 @@
     "timeMonth": 1073,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2022-11-08": 32
     }
   },
@@ -24,11 +25,11 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tg-notifications-bot-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 169,
     "timeDay": 764,
@@ -36,7 +37,7 @@
     "timeMonth": 414,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
+      "2023-01-25": 2,
       "2022-11-08": 32
     }
   },
@@ -45,10 +46,10 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-server-afrihost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 719,
@@ -57,6 +58,7 @@
     "timeMonth": 720,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-11-13": 60
     }
   },
@@ -65,9 +67,9 @@
     "url": "$DEDICATED_TG_MUTE_SCHEDULER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-node-js-tg-mute-scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -77,6 +79,7 @@
     "timeMonth": 962,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-13": 258
     }
   }
