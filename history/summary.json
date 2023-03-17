@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shared-hosting-xneelo",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 874,
-    "timeDay": 754,
-    "timeWeek": 878,
-    "timeMonth": 975,
+    "timeDay": 810,
+    "timeWeek": 904,
+    "timeMonth": 979,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-03-16": 7,
       "2023-02-28": 17,
       "2022-11-08": 32
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 510,
+    "timeDay": 0,
     "timeWeek": 510,
-    "timeMonth": 798,
+    "timeMonth": 792,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2022-11-08": 32
@@ -54,8 +53,8 @@
     "uptimeYear": "99.98%",
     "time": 732,
     "timeDay": 0,
-    "timeWeek": 1386,
-    "timeMonth": 833,
+    "timeWeek": 1430,
+    "timeMonth": 815,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2022-11-13": 60
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1051,
-    "timeDay": 646,
-    "timeWeek": 1388,
-    "timeMonth": 1070,
-    "timeYear": 1051,
+    "time": 1097,
+    "timeDay": 10230,
+    "timeWeek": 2769,
+    "timeMonth": 1418,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2022-11-13": 258
     }
