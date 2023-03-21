@@ -6,9 +6,9 @@
     "slug": "shared-hosting-xneelo",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 877,
     "timeDay": 849,
@@ -16,7 +16,6 @@
     "timeMonth": 915,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2023-03-21": 7,
       "2023-02-28": 17,
       "2022-11-08": 32
     }
@@ -26,10 +25,10 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tg-notifications-bot-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
@@ -38,6 +37,7 @@
     "timeMonth": 722,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2023-03-21": 2,
       "2022-11-08": 32
     }
   },
@@ -46,9 +46,9 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-server-afrihost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +58,7 @@
     "timeMonth": 816,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2023-03-21": 0,
       "2022-11-13": 60
     }
   },
@@ -66,9 +67,9 @@
     "url": "$DEDICATED_TG_MUTE_SCHEDULER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-node-js-tg-mute-scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -78,6 +79,7 @@
     "timeMonth": 1414,
     "timeYear": 1091,
     "dailyMinutesDown": {
+      "2023-03-21": 0,
       "2022-11-13": 258
     }
   }
