@@ -25,10 +25,10 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tg-notifications-bot-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "77.57%",
-    "uptimeWeek": "96.80%",
+    "uptimeDay": "77.44%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.91%",
     "time": 354,
@@ -37,7 +37,7 @@
     "timeMonth": 2386,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-04-12": 44,
+      "2023-04-12": 46,
       "2023-04-11": 278,
       "2022-11-08": 32
     }
@@ -47,9 +47,9 @@
     "url": "$DEDICATED_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-server-afrihost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "79.72%",
+    "uptimeDay": "79.67%",
     "uptimeWeek": "97.10%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.91%",
@@ -59,7 +59,7 @@
     "timeMonth": 1359,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2023-04-12": 16,
+      "2023-04-12": 17,
       "2023-04-11": 276,
       "2022-11-13": 60
     }
@@ -69,10 +69,10 @@
     "url": "$DEDICATED_TG_MUTE_SCHEDULER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-node-js-tg-mute-scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "79.81%",
-    "uptimeWeek": "97.12%",
+    "uptimeDay": "79.80%",
+    "uptimeWeek": "97.11%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.83%",
     "time": 1235,
