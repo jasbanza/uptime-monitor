@@ -1,7 +1,7 @@
 url: $DEDICATED_TG_MUTE_SCHEDULER
 status: up
 code: 200
-responseTime: 575
-lastUpdated: 2023-08-18T23:00:40.105Z
-startTime: Wed Aug 31 2022 23:43:00 GMT+0000 (Coordinated Universal Time)
+responseTime: 514
+lastUpdated: 2023-08-19T23:00:43.494Z
+startTime: 2022-08-31T23:43:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
