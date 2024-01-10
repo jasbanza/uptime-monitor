@@ -4,18 +4,19 @@
     "url": "$SHARED_HOSTING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "shared-hosting-xneelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
+    "time": 889,
     "timeDay": 1368,
     "timeWeek": 961,
     "timeMonth": 1023,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2024-01-10": 0,
       "2023-02-28": 17
     }
   },
