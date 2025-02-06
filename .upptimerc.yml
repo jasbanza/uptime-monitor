@@ -3,8 +3,6 @@ owner: jasbanza # Your GitHub organization or username, where this repository li
 repo: uptime-monitor # The name of this repository
 
 sites:
-  - name: Shared Hosting XNEELO
-    url: $SHARED_HOSTING_URL
   - name: TG Notifications Bot XNEELO
     check: "tcp-ping"
     url: $DEDICATED_URL
